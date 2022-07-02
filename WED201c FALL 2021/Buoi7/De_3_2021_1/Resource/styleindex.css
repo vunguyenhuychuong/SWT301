@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(44, 42, 42);
+}
+body p{
+    color: #fff;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size:18px;
+    word-spacing: 2px;
+}
+body h1, body h2 {
+    color: rgb(209, 223, 23);
+    text-align: center;
+}
+
+
+
+.carousel-inner img{
+    width: 100%;
+}
+.row-food img{
+    border-radius: 50%;
+}
+
+.row.footer {
+    background: rgb(88, 86, 86);
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 2px solid rgba(212, 212, 26, 0.884);
+    color: #fff;
+}
+
+.col-sm-8 {
+    margin-left: -20px;
+}
+.row.footer img{
+    padding-top: 15px;
+    padding-right: 5px;
+}
+
+
+
+

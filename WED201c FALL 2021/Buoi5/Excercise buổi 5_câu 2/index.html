@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+</head>
+<style>
+    .container {
+        max-width: 450px;
+        min-height: 450px;
+        margin: 10px 250px;
+        padding: 22px 27px;
+        background-color: rgb(47, 214, 219);
+        width: 100%;
+    }
+
+    input #ourField {
+        width: 220px;
+        height: 30px;
+    }
+
+    button {
+        background-color: rgb(177, 17, 209);
+    }
+</style>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>To-do App</h1>
+            <form id="ourForm">
+                <input id="ourField" type="text" autocomplete="off">
+                <button><i class="fas fa-plus"></i></button>
+            </form>
+            <h3>Need to do</h3>
+            <ul id="ourList"></ul>
+        </div>
+
+    </div>
+    <script src="./js/mycode.js"></script>
+</body>
+
+</html>
