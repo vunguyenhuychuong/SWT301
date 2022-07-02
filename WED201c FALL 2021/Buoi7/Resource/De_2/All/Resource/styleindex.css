@@ -1,0 +1,47 @@
+body{
+
+}
+
+#carousel-example-generic img{
+    width: 100%;
+}
+
+.monankhaivi img{
+    margin-top: 25px;
+    padding-left: 50px;
+    width:100%;
+}
+
+.monankhaivi h2{
+    color: rgb(235, 248, 48);
+    font-size:18px;
+    text-align: center;
+}
+
+.monankhaivi p{
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.footer{
+    background-color: #BBB;
+    border-top: 3px solid yellow;
+}
+
+.p-20{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.p-40{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.promotion{
+    margin-top:18px;
+}
+
+#table{
+    color: #fff;
+}

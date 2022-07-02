@@ -1,0 +1,48 @@
+body{
+    background-color: hsla(30, 18%, 7%, 0.925);
+    color: #fff;
+}
+
+.carousel-inner img{
+    width: 100%;
+}
+.monankhaivi{
+    padding-top: 18px;
+}
+.monankhaivi h2{
+    color: rgb(219, 219, 13);
+    margin-top: -5px;
+    font-size: 35px;
+}
+
+.monankhaivi img{
+    width: 100%;
+}
+
+.monankhaivi p{
+    padding-top: 18px;
+    text-align: justify;
+    margin-top:-27px;
+    font-size:25px;
+}
+
+.view{
+    margin: 10px 0px;
+}
+
+ input.btn.btn-danger.promotion-btn {
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid rgb(238, 255, 6);
+}
+
+.footer{
+    background-color:#000;
+    height:100%;
+    padding: 25px 20px;
+    font-size: 20px;
+}
+
+
+
+
